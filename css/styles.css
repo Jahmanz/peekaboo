@@ -1,3 +1,13 @@
-#walrus-showing {
-  display: none;
+
+
+.green-background {
+  background-attachment: : green
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
 }
